@@ -1,4 +1,4 @@
-# Worknoon AI Refund Support Demo
+# Worknoon AI Powered Customer Support Refund System Demo
 
 A containerized refund request demo built with Streamlit, FastAPI, SQLite, and Groq. Customers find a mock order, describe an issue, and see a decision with a reason. A support dashboard shows recent requests, AI categories, decisions, and audit notes.
 
