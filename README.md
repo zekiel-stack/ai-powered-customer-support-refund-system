@@ -65,19 +65,33 @@ flowchart TD
 | Customer | Email | Order ID 1 | Order ID 2 |
 
 | Ada Okafor | ada.okafor@example.com | WN-1001 | WN-2001 |
+
 | Chidi Nwosu | chidi.nwosu@example.com | WN-1002 | WN-2002 |
+
 | Amina Bello | amina.bello@example.com | WN-1003 | WN-2003 |
+
 | Tunde Adebayo | tunde.adebayo@example.com | WN-1004 | WN-2004 |
+
 | Zainab Musa | zainab.musa@example.com | WN-1005 | WN-2005 |
+
 | Emeka Obi | emeka.obi@example.com | WN-1006 | WN-2006 |
+
 | Ngozi Eze | ngozi.eze@example.com | WN-1007 | WN-2007 |
+
 | Femi Adeyemi | femi.adeyemi@example.com | WN-1008 | WN-2008 |
+
 | Fatima Usman | fatima.usman@example.com | WN-1009 | WN-2009 |
+
 | Kunle Ajayi | kunle.ajayi@example.com | WN-1010 | WN-2010 |
+
 | Ifeoma Okeke | ifeoma.okeke@example.com | WN-1011 | WN-2011 |
+
 | Ibrahim Lawal | ibrahim.lawal@example.com | WN-1012 | WN-2012 |
+
 | Sade Williams | sade.williams@example.com | WN-1013 | WN-2013 |
+
 | Yusuf Abdullahi | yusuf.abdullahi@example.com | WN-1014 | WN-2014 |
+
 | Grace Johnson | grace.johnson@example.com | WN-1015 | WN-2015 |
 
 
